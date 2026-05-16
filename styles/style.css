@@ -14,7 +14,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-bottom: 120px;
+  padding-bottom: 60px;
 }
 
 .layout {
@@ -64,6 +64,7 @@ body {
 
 .content {
   flex: 1;
+  min-height: 280px;
 }
 
 .tabs {
